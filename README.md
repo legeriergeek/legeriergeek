@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @legeriergeek
-- 👀 I’m interested in ptn je parle pas anglais je comprend pas!!!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested by the developpement
+- 🌱 I’m currently learning some promagation language
+- 💞️ I’m looking to collaborate on nothing (for now)
+- 📫 How to reach me: e-mail me at saluttxd1@outlook.fr
 
 <!---
 legeriergeek/legeriergeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
