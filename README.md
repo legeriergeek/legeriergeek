@@ -13,3 +13,13 @@
 - **Unity** (and C#)
 - **Python**
 - **Java**
+
+# *What do I work on:*
+
+**I work on some projects like**
+- [https://github.com/lumenlabss/lumenone](LumenOne)
+- I'm a **Tech Support** at [https://echo-host.net](Echo-Host)
+
+**And I also work on things to imporve about myself:**
+
+- **Improve my english:** Even tho my english is quite good, im still ... (continuing tmrw)
