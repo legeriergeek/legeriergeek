@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @legeriergeek
-- 👀 I’m interested by the developpement
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing (for now)
-- 📫 How to reach me: e-mail me at legeriergeek@legeriergeek.fr
-- ⛱ I'm currently working on EasyScript
+# Howdy!
 
-<!---
-legeriergeek/legeriergeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+** Hello, im *legeriergeek*, a french hobbyist spaghetti code maker from 🇫🇷 **
+
+# *What do I like to do:*
+
+- **Doomscroll** (lol)
+- **Code Stuff** (i wont be on gh if i did not like coding)
+- **Rage at my computer because my smooth brain can't comprehend why my code is buggy as HECK**
+
+# *Things i like to code with:*
+
+- **Unity** (and C#)
+- **Python**
+- **Java**
