@@ -1,6 +1,6 @@
 # Howdy!
 
-** Hello, im *legeriergeek*, a french hobbyist spaghetti code maker from 🇫🇷 **
+**Hello, im *legeriergeek*, a french hobbyist spaghetti code maker from 🇫🇷**
 
 # *What do I like to do:*
 
