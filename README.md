@@ -1,28 +1,47 @@
-# Howdy!
+# 👋 Howdy!
 
-**Hello, im *legeriergeek*, a french hobbyist spaghetti code maker from 🇫🇷**
+**Hello, I'm _legeriergeek_, a French hobbyist spaghetti code maker from 🇫🇷**
 
-## What do I like to do
+![GitHub followers](https://img.shields.io/github/followers/legeriergeek?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=legeriergeek&color=blue)
 
-- **Doomscroll** (lol)
-- **Code Stuff** (i wont be on gh if i did not like coding)
-- **Rage at my computer because my smooth brain can't comprehend why my code is buggy as HECK**
+---
 
-## Things i like to code with:
+## 💡 What Do I Like To Do
 
-- **Unity** (and C#)
-- **Python**
-- **Java**
+- 🌀 **Doomscroll** (yeah... it's a lifestyle)
+- 👨‍💻 **Code stuff** (I wouldn’t be on GitHub if I didn’t like coding)
+- 💥 **Rage at my computer** because my smooth brain can't comprehend why my code is buggy as HECK
 
-## What do I work on:
+---
 
-**I work on some projects like**
-- [LumenOne](https://github.com/lumenlabss/lumenone)
-- I'm a **Tech Support** at [Echo-Host](https://echo-host.net)
+## 🛠️ Things I Like to Code With
 
-**And I also work on things to imporve about myself:**
+- 🎮 **Unity** (and C#)
+- 🐍 **Python**
+- ☕ **Java**
 
-- **Improve my english:** Even tho my english is quite good, im still doing some errors
-- **Improve my coding skills:** I REALLY  produce spaghetti code so i think it's important to work on in the future.
+---
 
-###### And also, sorry for this terrible Readme, I'm bad at MarkDown
+## 🚧 What I'm Working On
+
+- 🔧 [**LumenOne**](https://github.com/lumenlabss/lumenone)
+- 🛠️ **Tech Support** at [Echo-Host](https://echo-host.net)
+
+---
+
+## 📈 What I'm Working On (Internally)
+
+- ✍️ **Improve my English:** Even though it's pretty okay, I still make mistakes here and there.
+- 🧠 **Level up my coding skills:** I produce hella spaghetti code 🍝, but I’m working on it 💪
+
+---
+
+## 📊 My GitHub Stats
+
+![legeriergeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=legeriergeek&show_icons=true&theme=tokyonight&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legeriergeek&layout=compact&theme=tokyonight)
+
+---
+
+###### 📝 Also... sorry for this terrible README, I’m bad at Markdown 😅 (but at least it works!)
