@@ -17,7 +17,7 @@
 # *What do I work on:*
 
 **I work on some projects like**
-- (https://github.com/lumenlabss/lumenone)[LumenOne]
+- [LumenOne](https://github.com/lumenlabss/lumenone)
 - I'm a **Tech Support** at [https://echo-host.net]
 
 **And I also work on things to imporve about myself:**
