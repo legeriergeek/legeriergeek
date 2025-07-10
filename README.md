@@ -22,4 +22,5 @@
 
 **And I also work on things to imporve about myself:**
 
-- **Improve my english:** Even tho my english is quite good, im still ... (continuing tmrw)
+- **Improve my english:** Even tho my english is quite good, im still doing some errors
+- **Improve my coding coding skills:** I REALLY  produce spaghetti code so i think it's important to work on in the future.
