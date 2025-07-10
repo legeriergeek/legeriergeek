@@ -20,12 +20,13 @@
 - 🎮 **Unity** (and C#)
 - 🐍 **Python**
 - ☕ **Java**
+- 😑 **NOT** Javascript, even tho i don't have the choice with [LumenOne](https://github.com/lumenlabss/LumenOne)
 
 ---
 
 ## 🚧 What I'm Working On
 
-- 🔧 [**LumenOne**](https://github.com/lumenlabss/lumenone)
+- 🔧 [LumenOne](https://github.com/lumenlabss/LumenOne)
 - 🛠️ **Tech Support** at [Echo-Host](https://echo-host.net)
 
 ---
